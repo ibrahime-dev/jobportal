@@ -91,7 +91,7 @@
                 <div class="feature-card">
                     <i class="fas fa-search"></i>
                     <h3>Smart Job Search</h3>
-                    <p>Advanced filters to find jobs that match your skills, location, and salary expectations.</p>
+                    <p>Advanced filters to find jobs  that match your skills, location, and salary expectations.</p>
                 </div>
                 <div class="feature-card">
                     <i class="fas fa-user-tie"></i>
